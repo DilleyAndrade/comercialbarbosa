@@ -658,6 +658,14 @@ export const floors = [
 
   {
     brand: "elizabeth",
+    reference: "Brava",
+    size: "64x64",
+    type: "Cerâmica",
+    img: "/floors/elizabeth/brava.jpg",
+  },
+
+  {
+    brand: "elizabeth",
     reference: "Iguatu Azul",
     size: "32,5x65,5",
     type: "Revestimento",
@@ -699,6 +707,13 @@ export const floors = [
     size: "68x68",
     type: "Cerâmica",
     img: "/floors/arielle/lirioLux.jpg",
+  },
+  {
+    brand: "arielle",
+    reference: "Begônia",
+    size: "68x68",
+    type: "Cerâmica",
+    img: "/floors/arielle/begonia.jpg",
   },
   {
     brand: "arielle",
