@@ -13,7 +13,7 @@ export default function KitchenImage({ReferenceHall, ReferenceFloor}:KitchenImag
         <img src="/kitchenBg.png" className='relative z-40'/>
 
         <div id='hall'
-          className='absolute top-0 h-2/4 w-full bg-amber-700'
+          className='absolute top-0 h-2/4 w-full bg-white'
           style={{
             backgroundImage: `url(${ReferenceHall})`,
           }}

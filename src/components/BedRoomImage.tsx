@@ -15,7 +15,7 @@ export default function BedRoomImage({
         <img src="/bedRoomBg.png" className='relative z-40'/>
 
         <div id='hall'
-          className='absolute bottom-0 h-full w-full bg-amber-700'
+          className='absolute bottom-0 h-full w-full bg-white'
           style={{
             backgroundImage: `url(${ReferenceHall})`,
           }}
