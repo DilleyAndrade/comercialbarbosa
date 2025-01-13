@@ -877,6 +877,13 @@ export const floors = [
     type: "Revestimento",
     img: "/floors/arielle/trendClean.jpg",
   },
+{
+    brand: "arielle",
+    reference: "Trend Lux",
+    size: "37x59",
+    type: "Revestimento",
+    img: "/floors/arielle/trendLux.jpg",
+  },
   {
     brand: "arielle",
     reference: "Ohio Bege",
