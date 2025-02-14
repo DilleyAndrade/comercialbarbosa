@@ -238,6 +238,20 @@ export const floors = [
   //ROCHA FORTE ------------------------------------------------------------
   {
     brand: "rochaForte",
+    reference: "Bianco Supreme",
+    size: "82x82",
+    type: "Cerâmica",
+    img: "/floors/rochaForte/biancoSupreme.jpg",
+  },
+  {
+    brand: "rochaForte",
+    reference: "Damasco",
+    size: "82x82",
+    type: "Cerâmica",
+    img: "/floors/rochaForte/damasco.jpg",
+  },
+  {
+    brand: "rochaForte",
     reference: "57745",
     size: "33x57",
     type: "Revestimento",
