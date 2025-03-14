@@ -480,6 +480,14 @@ export const floors = [
 
   {
     brand: "elizabeth",
+    reference: "Ubatuba",
+    size: "64x64",
+    type: "Cerâmica",
+    img: "/floors/elizabeth/ubatuba.jpg",
+  },
+
+  {
+    brand: "elizabeth",
     reference: "Acari",
     size: "64x64",
     type: "Cerâmica",
