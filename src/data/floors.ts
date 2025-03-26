@@ -2,6 +2,13 @@ export const floors = [
   //Stela ------------------------------------------------------------
   {
     brand: "stela",
+    reference: "Carneiros",
+    size: "46x46",
+    type: "Cerâmica",
+    img: "/floors/stela/carneiros.jpg",
+  },
+  {
+    brand: "stela",
     reference: "Búzios",
     size: "46x46",
     type: "Cerâmica",
