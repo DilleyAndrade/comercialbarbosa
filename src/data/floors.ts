@@ -732,6 +732,13 @@ export const floors = [
   //ARIELLE ------------------------------------------------------------
   {
     brand: "arielle",
+    reference: "Áster Lux",
+    size: "68x68",
+    type: "Cerâmica",
+    img: "/floors/arielle/asterLux.jpg",
+  },
+  {
+    brand: "arielle",
     reference: "Jasmin Lux",
     size: "68x68",
     type: "Cerâmica",
