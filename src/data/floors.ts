@@ -147,6 +147,14 @@ export const floors = [
 
   {
     brand: "almeida",
+    reference: "32hda69",
+    size: "32x62",
+    type: "Revestimento",
+    img: "/floors/almeida/32hda69.jpg",
+  },
+
+  {
+    brand: "almeida",
     reference: "32a08",
     size: "32x62",
     type: "Revestimento",
