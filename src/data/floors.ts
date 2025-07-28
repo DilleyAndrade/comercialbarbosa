@@ -260,6 +260,21 @@ export const floors = [
   //ROCHA FORTE ------------------------------------------------------------
   {
     brand: "rochaForte",
+    reference: "Oeganic Black",
+    size: "61x116",
+    type: "Revestimento",
+    img: "/floors/rochaForte/organicBlack.jpg",
+  },
+  {
+    brand: "rochaForte",
+    reference: "Bianco Supreme",
+    size: "61x116",
+    type: "Revestimento",
+    img: "/floors/rochaForte/organicBlue.jpg",
+  },
+
+  {
+    brand: "rochaForte",
     reference: "Bianco Supreme",
     size: "82x82",
     type: "Cerâmica",
@@ -410,14 +425,28 @@ export const floors = [
   },
 
   //ELIZABETH ------------------------------------------------------------
+
   {
     brand: "elizabeth",
-    reference: "BrancoImperador",
+    reference: "Enredo",
+    size: "33,5x67",
+    type: "Revestimento",
+    img: "/floors/elizabeth/enredo.jpg",
+  },
+  {
+    brand: "elizabeth",
+    reference: "Adobe",
+    size: "33,5x67",
+    type: "Revestimento",
+    img: "/floors/elizabeth/adobe.jpg",
+  },
+  {
+    brand: "elizabeth",
+    reference: "Branco Imperador",
     size: "62,5x62,5",
     type: "Porcelanato",
     img: "/floors/elizabeth/brancoImperador.jpg",
   },
-
   {
     brand: "elizabeth",
     reference: "Turin",
@@ -928,7 +957,7 @@ export const floors = [
     type: "Revestimento",
     img: "/floors/arielle/trendClean.jpg",
   },
-{
+  {
     brand: "arielle",
     reference: "Trend Lux",
     size: "37x59",
